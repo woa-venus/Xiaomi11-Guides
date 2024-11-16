@@ -1,6 +1,6 @@
 # Windows on Mi 11
 
-![Mi 11 Windows](https://github.com/woa-venus/Xiaomi11-Guides/blob/main/Xiaomi11.png)
+![Mi 11 Windows](https://github.com/woa-venus/Xiaomi11-Guides/blob/master/Xiaomi11.png)
 
 
 ## ⚠️ Warning
