@@ -1,4 +1,4 @@
-# Rooting your POCO X3 Pro
+# Rooting your Xiaomi Mi 11
 
 ## Files/Tools Needed
 
@@ -27,7 +27,7 @@ adb reboot bootloader
 > Replace `path\to\magisk_patched.img` with the actual path of the image
 
 ```cmd
-fastboot flash boot path\to\magisk_patched.img
+fastboot flash boot_a path\to\magisk_patched.img
 ```
 
 ### Reboot to Android
@@ -48,7 +48,7 @@ fastboot reboot
 - A superuser request for Shell might appear on your phone's screen. If it does, grant it access.
 
 ```cmd
-adb shell "su -c cp /dev/block/by-name/boot /sdcard/rooted_boot.img" & adb pull /sdcard/rooted_boot.img
+adb shell "su -c cp /dev/block/by-name/boot_a /sdcard/rooted_boot.img" & adb pull /sdcard/rooted_boot.img
 ```
 
 ## [Next step: Installing Windows](3-install.md)
