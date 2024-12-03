@@ -1,4 +1,4 @@
-# Rooting your Xiaomi Mi 11
+# Rooting your Mi 11
 
 ## Files/Tools Needed
 
